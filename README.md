@@ -1,5 +1,4 @@
-# alpha-nex
-CRAZY CASINO-MINI PROJECT
+# JAVA - CRAZY CASINO-MINI PROJECT
 
 This is a basic games project.
 It consists of 3 simple casino games.
